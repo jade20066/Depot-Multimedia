@@ -1,6 +1,7 @@
 # Collage d'image
 
-![](<img width="2000" height="1600" alt="Ma vie sauvage" src="https://github.com/user-attachments/assets/655c7d6c-8365-4df6-b76f-8deae05cf51f" />)
+<img width="2000" height="1600" alt="Ma vie sauvage" src="https://github.com/user-attachments/assets/655c7d6c-8365-4df6-b76f-8deae05cf51f" />
+
 
 # Description
 Pour mon collage j'ai décidé de prendre un image d'un paysage dans le foret. J'ai positionner l'image de foret pour qu'elle apparaisse en fond. J'ai
