@@ -14,7 +14,7 @@ ce nouveau calque (oiseau 2). J'ai ensuite déplacer ce nouveau calque afin de l
 ajouter au projet. J'ai ensuite découper le contour du loup car c'est l'élément que je voulais garder. Je l'ai ensuite découper et j'ai créer un nouveau calque nommé loup.
 J'ai supprimer l'image de base découper que je ne voulais pas. J'ai ensuite pris l'outil pour changer le loup de place et j'ai utiliser un autre outil pour rapetisser
 l'image. J'ai ensuite été chercher sur internet un écriture de (LA VIE SAUVAGE). Puis je l'ai inserer dans mon projet j'ai changer la dimension et je l'ai positionner à
-l'endroit souhaité. 
+l'endroit souhaité. Pour terminer j'ai changer le nom du calque pour (La nature sauvage).
 
 # Source
 https://pixabay.com/fr/photos/des-arbres-nature-montagnes-paysage-4896953/
