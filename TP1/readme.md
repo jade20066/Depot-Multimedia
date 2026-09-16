@@ -1,4 +1,4 @@
-# collage d'image
+# Collage d'image
 
 ![<img width="2000" height="1600" alt="Ma vie sauvage" src="https://github.com/user-attachments/assets/45b70ec6-8359-4741-b94a-1199463d8bd6" />
 ](<img width="2000" height="1600" alt="Ma vie sauvage" src="https://github.com/user-attachments/assets/0cdbdeee-8de3-4b19-a486-de4bda47612a" />
