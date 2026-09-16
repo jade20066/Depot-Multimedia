@@ -17,8 +17,9 @@ l'image. J'ai ensuite été chercher sur internet un écriture de (LA VIE SAUVAG
 l'endroit souhaité. Pour terminer j'ai changer le nom du calque pour (La nature sauvage).
 
 # Source
+Pixabay: 
 https://pixabay.com/fr/photos/des-arbres-nature-montagnes-paysage-4896953/
 https://pixabay.com/fr/photos/oiseau-colombe-colombe-volante-4062359/
 https://pixabay.com/fr/photos/loup-mongol-loup-mongol-pr%C3%A9dateur-1972764/
-https://www.bing.com/images/search
+Google:
 https://www.partir.com/images/logos/logo_laviesauvage.png
