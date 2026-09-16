@@ -1,7 +1,8 @@
 #collage d'image
 
 ![<img width="2000" height="1600" alt="Ma vie sauvage" src="https://github.com/user-attachments/assets/45b70ec6-8359-4741-b94a-1199463d8bd6" />
-]()
+](<img width="2000" height="1600" alt="Ma vie sauvage" src="https://github.com/user-attachments/assets/0cdbdeee-8de3-4b19-a486-de4bda47612a" />
+)
 
 Pour mon collage j'ai décidé de prendre un image d'un paysage dans le foret. J'ai positionner l'image de foret pour qu'elle apparaisse en fond. J'ai
 changer le nom du calque pour que ca devienne (paysage de foret). Après cela j'ai ajouter un autre image d'un oiseau.
