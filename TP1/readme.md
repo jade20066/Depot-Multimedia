@@ -4,6 +4,7 @@
 ](<img width="2000" height="1600" alt="Ma vie sauvage" src="https://github.com/user-attachments/assets/0cdbdeee-8de3-4b19-a486-de4bda47612a" />
 )
 
+# Description
 Pour mon collage j'ai décidé de prendre un image d'un paysage dans le foret. J'ai positionner l'image de foret pour qu'elle apparaisse en fond. J'ai
 changer le nom du calque pour que ca devienne (paysage de foret). Après cela j'ai ajouter un autre image d'un oiseau.
 J'ai par la suite découper le contour de l'oiseau pour que le paysage disparaisse et qu'il ne reste que lui. En dautre therme j'a utiliser 
@@ -14,6 +15,7 @@ ce nouveau calque (oiseau 2). J'ai ensuite déplacer ce nouveau calque afin de l
 ajouter au projet. J'ai ensuite découper le contour du loup car c'est l'élément que je voulais garder. Je l'ai ensuite découper et j'ai créer un nouveau calque nommé loup.
 J'ai supprimer l'image de base découper que je ne voulais pas. J'ai ensuite pris l'outil pour changer le loup de place et j'ai utiliser un autre outil pour rapetisser l'image. 
 
+# Source
 https://pixabay.com/fr/photos/des-arbres-nature-montagnes-paysage-4896953/
 https://pixabay.com/fr/photos/oiseau-colombe-colombe-volante-4062359/
 https://pixabay.com/fr/photos/loup-mongol-loup-mongol-pr%C3%A9dateur-1972764/
