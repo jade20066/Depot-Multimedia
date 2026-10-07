@@ -14,11 +14,13 @@ Rendu final du projet
 
 
 
-# *Préparation TP2*
-Oiseau en mouvement
+
+# Oiseau en mouvement
 
 Lien de l'image de base
-- https://upload.wikimedia.org/wikipedia/commons/9/99/Eadweard_Muybridge%2C_Animal_Locomotion%2C_Plate_758%2C_1887%2C_NGA_136539.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+
+<img width="2132" height="1195" alt="Capture d’écran 2026-10-07 124433" src="https://github.com/user-attachments/assets/4ca633f1-c1e5-432f-8ecd-09a9082953cb" />
+
 
 <img width="500" height="650" alt="perroquet" src="https://github.com/user-attachments/assets/54ea1bcf-060c-4483-94b7-6d9cb131e878" />
 
