@@ -19,6 +19,7 @@ Oiseau en mouvement
 
 Lien de l'image de base
 - https://upload.wikimedia.org/wikipedia/commons/9/99/Eadweard_Muybridge%2C_Animal_Locomotion%2C_Plate_758%2C_1887%2C_NGA_136539.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+<img width="1438" height="932" alt="image" src="https://github.com/user-attachments/assets/a1c887c8-7719-4457-a6b5-62e071340548" />
 
 
 
