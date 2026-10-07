@@ -1,5 +1,5 @@
 
-# Animations
+# Journal de bord
 
 
 # *Activité du cheval de course*
