@@ -24,10 +24,8 @@ Rendu final du projet
 
 <img width="500" height="650" alt="perroquet" src="https://github.com/user-attachments/assets/54ea1bcf-060c-4483-94b7-6d9cb131e878" />
 
-# Cour 4 
-- J'ai commencer à faire mes recherche pour mon TP2 et j'ai commencer à analyser ce a quoi je voulais que mon projet ressemble.
 
-# Cour 5 
+# Cour 4 
 - J'ai travailler et finaliser mon TP2 pour le remettre en bonne condition et en état avec un montage qui me convenais.
 - J'ai travailler avec ChatGPT pour qu'il me donne des images logique afin de pouvoir choisir et améliorer mon histoire.
 - Il ma donner un rendu satisfaisant mais j'ai tout de même du enlever quelque images et modifier la chronologie de certain pour pouvoir avoir
