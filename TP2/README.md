@@ -13,6 +13,7 @@ un petit film mignon.
   ce qui réveille le petit renard curieux qui va la voir stupéfaite.
 
 ## Sources des images
+-Mon imagination pour créer une histoire qui me représente
 - ChatGpt
 - J'ai travailler avec ChatGPT pour qu'il me donne des images logique afin de pouvoir choisir et améliorer mon histoire.
 - Il ma donner un rendu satisfaisant mais j'ai tout de même du enlever quelque images et modifier la chronologie de certain pour pouvoir avoir
