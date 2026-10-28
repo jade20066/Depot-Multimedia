@@ -1,8 +1,8 @@
 
 # Journal de bord
 
-
-# * cheval de course*
+Cour 1
+# *cheval de course*
 Étapes du projet
 <img width="2478" height="1531" alt="Capture d’écran 2026-09-30 130055" src="https://github.com/user-attachments/assets/013069d0-3e03-4f9c-8d22-4645093cf0c3" />
 <img width="3839" height="2159" alt="Capture d’écran 2026-09-30 124845" src="https://github.com/user-attachments/assets/724060d3-d25c-4500-af42-4bec28e2300f" />
@@ -13,7 +13,10 @@ Rendu final du projet
 
 
 
+Cour 2
+- J'ai continuer a faire des essais et découvrir les fonction de Github animation
 
+Cour 3 
 
 # *Oiseau en mouvement*
 
@@ -21,7 +24,11 @@ Rendu final du projet
 
 <img width="500" height="650" alt="perroquet" src="https://github.com/user-attachments/assets/54ea1bcf-060c-4483-94b7-6d9cb131e878" />
 
+Cour 4 
+- J'ai commencer à faire mes recherche pour mon TP2 et j'ai commencer à analyser ce a quoi je voulais que mon projet ressemble.
 
+Cour 5 
+- J'ai travailler et finaliser mon TP2 pour le remettre en bonne condition et en état avec un montage qui me convenais.
 
 
 
