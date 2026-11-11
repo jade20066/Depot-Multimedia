@@ -1,7 +1,7 @@
 # Évaluation Sonore 
 
 
-
+![](./evs3.mp4)
 
 
 Pour mon EVS3, j'ai commencer par trouver une image qui me convenais et avec laquelle j'allais illustré ma petite mise en scène sonore. Ensuite j'ai essayer des sons pour former ma vidéo. J'ai tout d'abord commencer par allé sur une application de sons libre de doit et j'ai commencer à en écouter une tonne de sons, afin de sélectionné ceux qui me convenais pour mon projet. J'ai ensuite jouer avec les longueurs de mes sons pour les superposés un par un sur mon image initiale. Pour certain sons je les ai dupliqué ou déplacer ou bien couper. Je me suis ensuite penché vers le résultat final et je me suis demander si j'étais satisfaite de mon projet. J'ai répondu que oui! Je suis satisfaite du résultat de mes différent sons que j'ai sélectionné et une fois ensemble je trouve le résultat très intéressant. Il est illustré dans mo projet une montagne enneiger avec des bruit d'oiseaux et de vent principalement. Il y a aussi le bruit de petit animaux et un passage de moutons rapide. 
