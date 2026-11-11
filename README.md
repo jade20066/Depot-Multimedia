@@ -41,4 +41,34 @@ Rendu final du projet
 # Cour 1
 - j'étais absente 
 # Cour 2 
-- 
+- Jai commencer analyser le nouveau logiciel pour insérer un sons sur un image.
+- J'ai commencer à travailler sur mon TP3:
+- J'ai trouver une image qui me convenais et j'ai commencer a y essayer des sons pour former ma vidéo. J'ai tout d'abord commencer par allé sur une application de sons libre de doit et j'ai commencer à en écouter une tonne afin de sélectionné ceux qui me convenais pour mon projet. 
+
+Liens des sons: 
+- [WINDDsgn_Vent (ID 0595)_LaSonotheque.fr (1).wav](https://github.com/user-attachments/files/34699377/WINDDsgn_Vent.ID.0595._LaSonotheque.fr.1.wav)
+- [BIRDSong_Rouge gorge 4 (ID 1670)_LaSonotheque.fr.wav](https://github.com/user-attachments/files/34699383/BIRDSong_Rouge.gorge.4.ID.1670._LaSonotheque.fr.wav)
+- [MUSCInst_Bol tibetain frappe 3 (ID 2554)_LaSonotheque.fr.wav](https://github.com/user-attachments/files/34699717/MUSCInst_Bol.tibetain.frappe.3.ID.2554._LaSonotheque.fr.wav)
+- [STORM_Pluie et orage (ID 0124)_LaSonotheque.fr.wav](https://github.com/user-attachments/files/34700170/STORM_Pluie.et.orage.ID.0124._LaSonotheque.fr.wav)
+
+
+
+
+*  4 autres sons sont inclus mais le lien de sons est trop long pour les déposés ici! *
+  - Les oiseaux qui chantes
+  - Les arbustes qui craques
+  - Le troupeaux de moutons
+  - Le bruit des grillions 
+
+    
+
+
+
+
+
+
+
+
+
+
+
