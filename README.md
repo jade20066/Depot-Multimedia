@@ -1,6 +1,7 @@
 
 # Journal de bord
 
+# Animation 
 # Cour 1
 # *cheval de course*
 Étapes du projet
@@ -35,7 +36,9 @@ Rendu final du projet
   
 <img width="1536" height="1024" alt="Image (3)" src="https://github.com/user-attachments/assets/bab82a5e-8071-47cb-8384-964fd4614a7d" />
 
+# Audio/Sons 
 
-
-
-
+# Cour 1
+- j'étais absente 
+# Cour 2 
+- 
